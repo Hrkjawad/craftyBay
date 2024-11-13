@@ -1,16 +1,6 @@
-# crafty_bay
+# Crafty Bay
 
-Crafty Bay A new Flutter project.
+This is a Flutter CURD project using API.
 
-## Getting Started
+![TaskManagerApp](https://github.com/user-attachments/assets/4a38e586-fa53-4ade-bb4d-58a49e6c865f)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
