@@ -1,6 +1,7 @@
 # Crafty Bay
 
-This is a Flutter CURD project using API.
+This is a Flutter e-commerce project using API.
 
-![TaskManagerApp](https://github.com/user-attachments/assets/4a38e586-fa53-4ade-bb4d-58a49e6c865f)
+![Ecommerce_app](https://github.com/user-attachments/assets/16aad73e-b8c5-4f61-98ff-cae67024993b)
+
 
